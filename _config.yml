@@ -9,7 +9,7 @@ name: Maenbal
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://photos.app.goo.gl/KuPDGzh7a7YVJDJB8
+avatar: 
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://photos.app.goo.gl/KuPDGzh7a7YVJDJB8
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook: m.facebook.com/infostreamingbola
+  email: infostreamingbola01@gmail.com
+  facebook: infostreamingbola
   flickr:
-  github: Github.com/maenbal
-  instagram:
-  linkedin:
+  github: maenbal
+  instagram: infostreamingbola
+  telegram: infostreamingbola
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
